@@ -1,0 +1,10 @@
+Michael Lau
+mlau10@ucsc.edu
+mlau10
+1493231
+Lab 3
+3/1/18
+
+MichaelLau-lab3.pdf - screenshots from the lab and explanations
+MichaelLau-lab3controller.py - contains firewall that accepts tcp and arp and drops else.
+README - this file that contains what the submission entails
